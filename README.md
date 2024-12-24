@@ -26,7 +26,7 @@
 * **Stocks**
 * **Reports**
 
-You can find the **contact me if any help** <a href="t.me/Kscmbait">here</a>
+You can find the **contact me if any help** <a href="https://web.whatsapp.com">here</a>
 
 Requirements for Project Setup is XAMPP and your favourite browser.
 
