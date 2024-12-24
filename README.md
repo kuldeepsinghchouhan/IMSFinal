@@ -1,35 +1,35 @@
-# IMSFinal
-Inventory Management System With My SQL Databse 
-This is an Inventory Management System developed using PHP, HTML, JavaScript, Bootstrap, and MySQL. It allows users to manage products, stock levels, and other inventory-related tasks. The system provides an intuitive web interface and ensures smooth operation with real-time updates to product details and stock quantities.
+# Inventory Management System
 
-## Features:
-- User-friendly interface built with HTML, CSS, and Bootstrap.
-- Real-time inventory updates using PHP and MySQL.
-- Secure login and authentication system.
-- CRUD (Create, Read, Update, Delete) functionality for products and categories.
-- Dynamic search and filter options.
-- Responsive design for mobile and desktop users.
+**Inventory Management System** contains all types of Modules which are used for managing any type of Inventory.
 
-## Technologies Used:
-- **PHP**: Server-side scripting.
-- **HTML/CSS**: Web page structure and styling.
-- **JavaScript**: Client-side interactivity.
-- **Bootstrap**: Responsive design and UI components.
-- **MySQL**: Database management for storing inventory data.
 
-## Installation:
+## Development Environment
 
-1. Clone this repository to your local machine.
-2. Set up a local server environment (e.g., XAMPP, WAMP).
-3. Import the imsfinal.sql` file to your MySQL database.
-4. Update the database connection settings in the `config.php` file.
-5. Access the system via `localhost/imsfinal/`.
+* **Tools:** VS Code, XAMPP
+* **Technologies:** PHP, JavaScript
+* **Libraries/Frameworks:** Bootstrap, jQuery, Ajax, 
+* **Database:** MySQL
 
-## Contact Information:
+## Features
 
-- **Name**: Kuldeep Singh (MBA-IT)
-- **Phone**: +91 97287 32123
-- **Telegram** : t.me/Kscmbait 
-- **Email**: kuldeep.s.chouhan@gmail.com
+* **Vendor**
+* **Customer**
+* **Product**
+* **Inward**
+* **Challan**
+* **Invoice**
+* **Return**
+* **Breakage & Damage**
+* **Expense**
+* **Quotation**
+* **Payment**
+* **Stocks**
+* **Reports**
 
-Feel free to reach out for any questions, suggestions, or issues
+You can find the **Demo Video** <a href="https://drive.google.com/file/d/18lkJ-Gdheajg2lLDQQTzC5irwccqQ2Dd/view?usp=sharing">here</a>
+
+Requirements for Project Setup is XAMPP and your favourite browser.
+
+For accessing this Web Application you have to open XAMPP and start the Apache and MySQL and then type localhost/IMSFinal in your browser.
+
+At first you have to create a database name imsfinal and then import the sql file which is uploaded in this repository.
