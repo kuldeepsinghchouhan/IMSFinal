@@ -26,7 +26,7 @@
 * **Stocks**
 * **Reports**
 
-You can find the **Demo Video** <a href="https://drive.google.com/file/d/18lkJ-Gdheajg2lLDQQTzC5irwccqQ2Dd/view?usp=sharing">here</a>
+You can find the **contact me if any help** <a href="t.me/Kscmbait">here</a>
 
 Requirements for Project Setup is XAMPP and your favourite browser.
 
